@@ -1,0 +1,5 @@
+# flyctl launch added from node_modules\.gitignore
+node_modules\**\node_modules
+node_modules\**\.env
+node_modules\**\package-lock.json
+fly.toml
