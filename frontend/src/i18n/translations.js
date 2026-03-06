@@ -1,0 +1,40 @@
+export const translations = {
+    en: {
+        shopTitle: "Azerbaijani Baklava Shop",
+        subtitle: "Fresh Handmade Azerbaijani Baklava",
+        order: "Order",
+        customerName: "Customer Name",
+        phone: "Phone Number",
+        address: "Address",
+        quantity: "Quantity",
+        submit: "Submit Order",
+        orders: "Orders Dashboard",
+        completed: "Mark as Completed",
+        adminLink: "Admin Dashboard",
+        total: "Total",
+        cancel: "Cancel",
+        productName: "Product Name",
+        orderTime: "Order Time",
+        status: "Status",
+        orderId: "Order ID"
+    },
+    ua: {
+        shopTitle: "Магазин Азербайджанської Пахлави",
+        subtitle: "Свіжа Азербайджанська Пахлава Ручної Роботи",
+        order: "Замовити",
+        customerName: "Ім’я клієнта",
+        phone: "Номер телефону",
+        address: "Адреса",
+        quantity: "Кількість",
+        submit: "Надіслати замовлення",
+        orders: "Панель Замовлень",
+        completed: "Завершити",
+        adminLink: "Панель Адміністратора",
+        total: "Сума",
+        cancel: "Скасувати",
+        productName: "Назва продукту",
+        orderTime: "Час замовлення",
+        status: "Статус",
+        orderId: "ID Замовлення"
+    }
+};
