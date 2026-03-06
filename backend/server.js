@@ -6,6 +6,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.json({ message: 'Baklava API is running' });
+});
+
 // In-Memory Data
 let products = [
   { id: '1', name: "Traditional Azerbaijani Baklava", price: 10, image: "/images/mix.jpg" },
